@@ -24,6 +24,7 @@ public class FldPOLineInspectionExt
   {
     super(mbv);
     this.myLogger = MXLoggerFactory.getLogger("maximo.merge");
+	//Test Rupal
   }
   
   public void initValue()
